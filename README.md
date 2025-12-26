@@ -47,7 +47,6 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 | Maker Guide          | 1.0     | [Squeeze_Grip_Switch_Maker_Guide](/documentation/Product_Manual_Squeeze_Grip_Switch.pdf)     |
 | Bill of Materials    | 1.0     | [Squeeze_Grip_Switch_Bill_of_Materials](/documentation/Squeeze_Grip_Switch_BOM.csv)     |
 | User Guide           | 1.0     | [Squeeze_Grip_Switch_User_Guide](/documentation/Product_Manual_Squeeze_Grip_Switch.pdf)    |
-<<<<<<< HEAD
 | Changelog            | 1.0     | [Template_Changelog](/documentation/CHANGES.txt)     |
 
 ## Open Hardware Attribution
