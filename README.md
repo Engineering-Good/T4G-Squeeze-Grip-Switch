@@ -6,7 +6,7 @@
 The Squeeze/Grip Switch is an assistive technology device designed for special needs students with low grip strength to help them learn cause-and-effect while improving their motor skills.
 
 The current version of the device (v1.0) has been built and user tested.
-<img src="photos/Squeeze-Grip-Switch.jpg" width="500" alt="Picture of Adapted Recorder Button.">
+<img src="photos/Squeeze-Grip-Switch.jpg" width="500" alt="Picture of Squeeze Gip Switch.">
 
 ## How to Obtain the Device
 
@@ -16,7 +16,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Get Involved: Requests & Volunteering
 
-- Need this device? If you or someone you know could benefit from the Adapted Recorder Button, please send us an email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org). We also invite you to share your journey with us! Tell us your stories about the device and feedback help us make our assistive tech even better!
+- Need this device? If you or someone you know could benefit from the Squeeze Grip Switch, please send us an email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org). We also invite you to share your journey with us! Tell us your stories about the device and feedback help us make our assistive tech even better!
 
 - Want to help? We are always looking for volunteers to help build these devices for the community. If you have the skills and want to contribute, please contact us via email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org).
 
@@ -28,9 +28,9 @@ The [Maker Guide](/documentation/Product_Manual_Squeeze_Grip_Switch.pdf)  contai
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/documentation/Squeeze_Grip_Switch_BOM.csv) lists all of the parts and components required to build the Adapted Recorder Button.
+The [Bill of Materials](/documentation/Squeeze_Grip_Switch_BOM.csv) lists all of the parts and components required to build the Squeeze Grip Switch.
 
-### 3. Assemble the Adapted Recorder Button
+### 3. Assemble the Squeeze Grip Switch
 
 Reference the Assembly Guide section of the [Maker Guide](/documentation/Product_Manual_Squeeze_Grip_Switch.pdf) for the tools and steps required to build each portion.
 
@@ -59,7 +59,7 @@ Copyright (c) 2024 Neil Squire / Makers Making Change.
 
 This repository describes Open Hardware:
 
-- Everything needed or used to design, make, test, or prepare the Playback Switch is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ).
+- Everything needed or used to design, make, test, or prepare the Squeeze Grip Switch is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ).
 - All software is under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
 - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Playback Switch are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
