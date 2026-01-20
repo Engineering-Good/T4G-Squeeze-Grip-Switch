@@ -55,7 +55,7 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 ## License
 
-Copyright (c) 2024 Neil Squire / Makers Making Change.
+Copyright (c) 2024 Engineering Good.
 
 This repository describes Open Hardware:
 
